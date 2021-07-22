@@ -976,23 +976,6 @@ body > .barra-inicial,
 #cabecalho.hide-menu .atalho-menu {
     display: none !important;
 }
-.protecao-copia {
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.protecao-copia::after {
-    content: "O template já está sendo utilizado em outra loja";
-    color: #888;
-    font-size: 15px;
-    font-weight: 500;
-    width: 300px;
-    max-width: 100%;
-    padding: 0 15px;
-    text-align: center;
-}
 /* ======================================================================================= */
 
 
